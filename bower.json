@@ -1,0 +1,21 @@
+{
+  "name": "bb_boot",
+  "authors": [
+    "sophie-1 <1114286145@qq.com>"
+  ],
+  "description": "0.0.1",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^1.11.3"
+  }
+}
